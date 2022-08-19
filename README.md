@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Brief explanation of this application
 ## What is it?
 For my front-end assignment, I created a website with the purpose of requesting information about anime/manga. 
+
 With the following link you can access the app: https://anime-manga-react.vercel.app/
 ## How is it constructed?
 It consists of a header, maincontent, a sidebar, a footer, and several pages. 
